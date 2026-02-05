@@ -1,30 +1,50 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=200&section=header&text=BIT%20Undergraduate%20|%20UOM&fontSize=50&animation=fadeIn&fontAlignY=35&desc=University%20of%20Moratuwa&descSize=20&descAlignY=55" width="100%" />
-</p>
-
 <div align="center">
-  
-  # 👋 Hi, I'm Taniya Sewwandi
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00d2ff&center=true&vCenter=true&width=500&lines=Python+App+Developer;Java+%26+C%23+Architect;Modern+Web+Designer;UOM+BIT+Student" alt="Typing SVG" />
+
+# TANIYA SEWWANDII
+### Software Engineer | BIT Undergraduate @ University of Moratuwa
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7000FF&center=true&vCenter=true&width=500&lines=Python+%26+Java+Expert;Building+Modern+Web+Solutions;Problem+Solver" alt="Typing SVG" />
 
 </div>
 
 ---
 
-### 🛠️ My Tech Universe
+### 🌙 Professional Profile
+<p align="left">
+  <img align="right" src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/coding.gif" width="260">
+</p>
+
+- 👋 **Greetings!** I am Taniya, a dedicated developer focused on clean, scalable code.
+- 🎓 **Education:** Pursuing a Bachelor of Information Technology at the **University of Moratuwa**.
+- 💻 **Engineering:** Specialized in crafting modern applications and robust logic.
+- 💡 **Interests:** Machine Learning, AI Research, and Modern UI/UX Design.
+- 🐍 **Focus:** Specialized expertise in **Python**, **Java**, and **C#**.
+- 📫 **Reach me:** Let's connect and build something amazing together!
+
+<br/>
+
+---
+
+### 🛠️ Tech Universe
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,java,html,css,js,react,mysql,git,vscode,github,figma&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,cs,java,js,html,css,mysql,git,vscode,github,figma&perline=6" />
 </p>
 
 ---
 
-### 📈 My Stats
+### 📈 Contribution & Continuity
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TaniyaSewwandii&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaniyaSewwandii&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TaniyaSewwandii&theme=tokyonight&hide_border=true&stroke=7000FF&ring=7000FF&fire=7000FF" width="100%" />
+</p>
+
+---
+
+### 🌐 Digital Presence
+<p align="center">
+  <a href="https://linkedin.com/in/taniya-sewwandi-51007337b"><img src="https://img.shields.io/badge/LinkedIn-7000FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:taniyasew2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-7000FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7000FF&height=2&section=footer" width="100%" />
 </p>
