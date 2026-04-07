@@ -32,10 +32,11 @@
 
 ---
 
-### 📈 Contribution & Continuity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TaniyaSewwandii&theme=tokyonight&hide_border=true&stroke=7000FF&ring=7000FF&fire=7000FF" width="100%" />
-</p>
+## 🎮 Contribution Graph (Pac-Man Style)
+![Pacman Graph](https://github-readme-activity-graph.vercel.app/graph?username=TaniyaSewwandii&theme=pacman&hide_border=true&area=true)
+
+## 🐍 Snake Animation
+![Snake animation](https://raw.githubusercontent.com/TaniyaSewwandii/TaniyaSewwandii/output/github-contribution-grid-snake.svg)
 
 ---
 
