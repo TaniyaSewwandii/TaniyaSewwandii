@@ -1,6 +1,6 @@
 <div align="center">
 
-# TANIYA SEWWANDII
+# TANIYA SEWWANDI
 ### Aspiring Web & Software Developer | Java, Python, C# | Enthusiastic about Cloud, Networking, and Cybersecurity | Building secure, scalable solutions | BIT Undergraduate @ University of Moratuwa
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7000FF&center=true&vCenter=true&width=500&lines=Python+%26+Java+Expert;Building+Modern+Web+Solutions;Problem+Solver" alt="Typing SVG" />
